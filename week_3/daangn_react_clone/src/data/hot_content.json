@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "image":"https://dnvefa72aowie.cloudfront.net/origin/article/202303/2e3462bb439e276d12b809c12f515a5ee4ed128aa4799ca88879a79de0df7c79.webp?q=82&s=300x300&t=crop",
+    "name":"위닉스제습기",
+    "price": "50,000원",
+    "address":"서울 성동구 행당동",
+    "like" : 15,
+    "chat" : 28
+  },
+  {
+    "id": 2,
+    "image":"https://dnvefa72aowie.cloudfront.net/origin/article/202304/87e7d2315350608c03e6cc5ebbd766437fe15a2fa1b75b5891d00b39e196c4c8.jpg?q=82&s=300x300&t=crop",
+    "name":"루이비통 가방",
+    "price": "10,000원",
+    "address":"경기도 고양시 덕양구 덕은동",
+    "like" : 27,
+    "chat" : 18
+  },
+  {
+    "id": 3,
+    "image":"https://dnvefa72aowie.cloudfront.net/origin/article/202304/ca8e97fe436e08d6b317dfe416d2a6c520f18563a34bc3ef8c25e4e906647eaf.jpg?q=82&s=300x300&t=crop",
+    "name":"나이기 옷 팔아요(새상품)",
+    "price": "30,000원",
+    "address":"서울 구로구 구로제4동",
+    "like" : 20,
+    "chat" : 39
+  },
+  { 
+    "id": 4,
+    "image":"https://dnvefa72aowie.cloudfront.net/origin/article/202304/290a00af62c3a03934d8a9b6d1f956c8a88b55489fe788e68a261c8fb2b16e16.webp?q=82&s=300x300&t=crop",
+    "name":"업소용 청소기 식당에 쓸일이 없네요",
+    "price": "50,000원",
+    "address":"경북 경주시 황남동",
+    "like" : 22,
+    "chat" : 43
+  },
+  {
+    "id": 5,
+    "image":"https://dnvefa72aowie.cloudfront.net/origin/article/202304/6cbb971f23bd9980e783ba380184fe552c2345b9c9769ce2c860292890de9470.webp?q=82&s=300x300&t=crop",
+    "name":"제트플립3",
+    "price": "50,000원",
+    "address":"경기도 안산시 단원구 선부3동",
+    "like" : 5,
+    "chat" : 21
+  },
+  {
+    "id": 6,
+    "image":"https://dnvefa72aowie.cloudfront.net/origin/article/202304/19624537b76f07e1984526fd55b3e6c2c63a11e084a81088a1e710ff41e3f267.jpg?q=82&s=300x300&t=crop",
+    "name":"상섬 50인치 UHD 벽걸이 티비 TV",
+    "price": "150,000원",
+    "address":"대전 중구 선화동",
+    "like" : 15,
+    "chat" : 22
+  },
+  {
+    "id": 7,
+    "image":"https://dnvefa72aowie.cloudfront.net/origin/article/202304/ea7f268390c128589984e0da7869b6e2047cb01b89e564ffd6de77de3947fec4.webp?q=82&s=300x300&t=crop",
+    "name":"코렐 그릇입니다~",
+    "price": "20,000원",
+    "address":"강원도 속초시 교동",
+    "like" : 8,
+    "chat" : 9
+  },
+  {
+    "id": 8,
+    "image":"https://dnvefa72aowie.cloudfront.net/origin/article/202304/b39c15811433fdf738a993daea36051667d25434157f360e94e4172d59fc4cbe.jpg?q=82&s=300x300&t=crop",
+    "name":"점포정리",
+    "price": "10,000원",
+    "address":"전남 나주시 빛가람동",
+    "like" : 47,
+    "chat" : 121
+  }
+  
+]
